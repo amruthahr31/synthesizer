@@ -1,0 +1,27 @@
+.blackkeys{
+width:30px;
+padding-top:250px;
+padding-left:15px;
+background:black;
+margin-top:50px;
+border-style: solid;
+border-color:1x1 solid yellow;
+float:left;
+color:rgb(255, 0, 0);
+transition: 0.3s;
+
+}
+.blackkeys:hover {opacity: 1 ;background:rgba(34, 23, 23, 0.479) }
+.whitekeys:hover {opacity: 1 ; background: rgb(128, 179, 180) }
+.whitekeys{
+position:relative;
+width:20px;
+height:140px;
+margin-top:-271px;
+margin-left:23px;
+
+background:white;
+
+
+
+}
